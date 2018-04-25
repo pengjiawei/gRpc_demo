@@ -1,0 +1,11 @@
+syntax="proto3";
+option cc_generic_services = false;
+message request{
+    int32 op = 1;
+}
+message response{
+    string text = 1;
+}
+service FooService{
+    rpc Foo(request) returns(response);
+}

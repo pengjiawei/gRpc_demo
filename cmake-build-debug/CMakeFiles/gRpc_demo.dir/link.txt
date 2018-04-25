@@ -1,0 +1,1 @@
+/usr/bin/c++  -g   CMakeFiles/gRpc_demo.dir/main.cpp.o CMakeFiles/gRpc_demo.dir/FooService.grpc.pb.cc.o CMakeFiles/gRpc_demo.dir/FooServiceImpl.cpp.o CMakeFiles/gRpc_demo.dir/FooService.pb.cc.o  -o gRpc_demo -Wl,-rpath,/usr/local/lib /usr/local/lib/libprotobuf.so -lpthread -lgrpc++ 

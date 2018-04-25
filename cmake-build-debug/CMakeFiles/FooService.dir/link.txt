@@ -1,0 +1,2 @@
+/usr/bin/ar qc libFooService.a  CMakeFiles/FooService.dir/FooServiceImpl.cpp.o
+/usr/bin/ranlib libFooService.a

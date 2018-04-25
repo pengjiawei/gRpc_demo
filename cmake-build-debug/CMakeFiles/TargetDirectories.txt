@@ -1,0 +1,4 @@
+/root/CLionProjects/gRpc_demo/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/root/CLionProjects/gRpc_demo/cmake-build-debug/CMakeFiles/edit_cache.dir
+/root/CLionProjects/gRpc_demo/cmake-build-debug/CMakeFiles/gRpc_client.dir
+/root/CLionProjects/gRpc_demo/cmake-build-debug/CMakeFiles/gRpc_server.dir
